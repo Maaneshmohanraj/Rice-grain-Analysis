@@ -19,7 +19,7 @@ The Approach of the objectives are well elucidated and has clear Visualization f
 
 <a href="https://ibb.co/ngwhYQq"><img src="https://i.ibb.co/JBcXGrW/test-black-full1.jpg" alt="test-black-full1" border="0"></a>
 
-# My Approach (Solution)
+# My Approach 
 ---
 
 ## The Steps involved in solving the Objectives are as follows:
