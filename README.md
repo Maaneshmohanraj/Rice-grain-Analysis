@@ -11,22 +11,6 @@ Download sample image from here: https://i.ibb.co/JBcXGrW/test-black-full1.jpg
 Technology used:  Computer Vision, OpenCV, WaterShed-Algorithm, Image Pre-processing, Image Segmentation, and others.
 The Approach of the objectives are well elucidated and has clear Visualization for better Insights into the working of each notebook cell.
 
-\
-I hope you will love the approach and the presentation of the solution.
-\
-Thanks & Regards,\
-Aman India.
-
-\
-**My handles**
-> LinkedIn: https://www.linkedin.com/in/mramanindia/
-\
-> Github: https://github.com/mramanindia
-\
-> Mail: amanindiamuzz@gmail.com
-\
-> Kaggle: https://www.kaggle.com/amanindiamuz
-
 ---
 # Image Information
 * The background will always be black.
@@ -122,8 +106,7 @@ Well,\
 I have added more approaches that came to my mind in the later section of this notebook.
 That too can be Implemented but I found this approach more Profound, thus it is part of the solution.
 
-
-
+Maanesh Mohanraj
 
 
 
