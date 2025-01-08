@@ -39,9 +39,6 @@ The Approach of the objectives are well elucidated and has clear Visualization f
     * For total rice grain counting: the Watershed method
     * For broken rice grains counting: A filter of an average area of broken rice grain.
 
-# Explanation
-<a href="https://www.youtube.com/watch?v=5BAdC-UXpEQ"><img src="https://i.ibb.co/kqg4Jpb/Counting-RIce-Grains.png" alt="Counting-RIce-Grains" border="0"></a>
-## Video Explanation: https://www.youtube.com/watch?v=5BAdC-UXpEQ
 The main Idea behind solving the objectives(Counting rice grains) is to make the provided image in the best possible format. \
 If there would be clarity in the image, and rice grains are well separated from the background image then there would be ease in counting them.
 
